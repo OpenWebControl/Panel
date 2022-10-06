@@ -1,0 +1,2 @@
+# Panel
+The management panel
